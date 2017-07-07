@@ -9,6 +9,7 @@
     "@angular/compiler": "next",
     "@angular/compiler-cli": "next",
     "@angular/core": "next",
+    "@angular/http": "next",
     "@angular/platform-browser": "next",
     "@angular/platform-server": "next",
     "@ngrx/core": "^1.2.0",
